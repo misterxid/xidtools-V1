@@ -26,7 +26,7 @@ enda='\033[0m'
 blue='\e[1;34m'
 cyan='\e[1;36m'
 red='\e[1;31m'
-figlet "TU4N N1CKN4M3"|lolcat
+figlet "MR XiD"|lolcat
 
 echo "              [=======================[+]=====================]"|lolcat
 echo "              [  Author :  -------------MR_XiD--------------  ]"
